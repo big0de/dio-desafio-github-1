@@ -1,2 +1,4 @@
-git status
-git add .
+git status //verifica status
+git add . //adiciona arquivos modificados para serem comitados
+git commit -m "..." //comita arquivos
+git push origin main //sobe arquivos pro github
